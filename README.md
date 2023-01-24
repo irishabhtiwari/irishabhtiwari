@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishabh Tiwari</h1>
+<h1 align="center">Hi👋, I'm Rishabh Tiwari 🙂 </h1>
+
 <h3 align="center">Passionate Data Scientist</h3>
 
 <img align="right" alt="coding" width="1080" src="https://user-images.githubusercontent.com/101878130/214384658-adeaade8-4a64-40de-bbd0-7f432b14a393.png">
