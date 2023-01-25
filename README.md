@@ -2,9 +2,17 @@
 
 <h3 align="center">Passionate Data Scientist</h3>
 
+
+
+
+
+
 <img align="right" alt="coding" width="1080" src="https://user-images.githubusercontent.com/101878130/214384658-adeaade8-4a64-40de-bbd0-7f432b14a393.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irishabhtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="irishabhtiwari" /> </p>
+
+
+
 
 - 👀 I’m interested in: **Data Science and Machine learning, particulary interested in Data Wrangling (Cleaning the data fascinates me), Exploratory Data Analysis (Without this how can i Live), Visualizing the data using Tableau and PowerBI**
 
