@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rishabh Tiwari 🙂
 
-<h3 align="center">Passionate Data Scientist</h3>
+<h3 align="center">Data Analyst Professional</h3>
 
 
 
